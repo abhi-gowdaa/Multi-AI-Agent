@@ -1,0 +1,8 @@
+ddgs
+langchain-community
+sounddevice
+scipy
+google-generativeai
+groq
+soundfile
+python-dotenv
